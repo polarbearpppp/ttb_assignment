@@ -198,7 +198,4 @@ Test cases are defined in `backend/test_case.json` and cover various spending sc
 5. **Commit** and push to repository
 
 
-## 👤 Author
-
-Created for TTB Assignment
 
