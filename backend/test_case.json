@@ -1,0 +1,30 @@
+[{
+    "name": "Testing 1",
+    "feature": {
+        "customer_id": "1100004958",
+        "feature": {"age": 32, "income": 45000, "avg_monthly_spend": 12000} 
+    }
+},
+{
+    "name": "Testing 2",
+    "feature": {
+        "customer_id": "1100004959",
+        "feature": {"age": 32, "income": 45000, "avg_monthly_spend": 1200} 
+    }
+},
+{
+    "name": "Testing 3",
+    "feature": {
+        "customer_id": "1100004960",
+        "feature": {"age": 42, "income": 50000, "avg_monthly_spend": 20000} 
+    }
+},
+{
+    "name": "Testing 4",
+    "feature": {
+        "customer_id": "1100004961",
+        "feature": {"age": 22, "income": 20000, "avg_monthly_spend": 20000} 
+    }
+}
+
+]
