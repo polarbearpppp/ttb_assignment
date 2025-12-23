@@ -188,19 +188,6 @@ Test cases are defined in `backend/test_case.json` and cover various spending sc
 - ✅ Automated test suite
 - ✅ TypeScript support throughout
 
-## 📝 Configuration
-
-### Environment Variables
-
-**Frontend (.env or docker-compose):**
-```
-NEXT_PUBLIC_API_URL=http://localhost:8000
-```
-
-**Tester (.env or docker-compose):**
-```
-API_URL=http://backend:8000
-```
 
 ## 🛠️ Development Workflow
 
@@ -210,26 +197,8 @@ API_URL=http://backend:8000
 4. **Build Docker image** and test with `docker-compose up --build`
 5. **Commit** and push to repository
 
-## 🚢 Deployment
-
-The application is containerized and ready for deployment to:
-- Docker registries (Docker Hub, ECR, etc.)
-- Kubernetes
-- Azure Container Instances
-- AWS ECS
-- Any other container orchestration platform
-
-## 📄 License
-
-This project is provided as-is for educational and assignment purposes.
 
 ## 👤 Author
 
 Created for TTB Assignment
 
-## 📞 Support
-
-For issues or questions:
-1. Check the API documentation at `http://localhost:8000/docs`
-2. Review test cases in `backend/test_case.json`
-3. Check Docker Compose logs: `docker-compose logs`
